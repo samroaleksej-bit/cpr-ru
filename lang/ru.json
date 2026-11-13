@@ -1272,6 +1272,8 @@
   "CPR.settings.dvRollTableCompendium.default": "Библиотека СЛ системы",
   "CPR.settings.dvRollTableCompendium.help": "ЛКМ чтобы узнать подробнее о создании собственных таблиц СЛ",
   "CPR.settings.dvRollTableCompendium.name": "Таблицы СЛ",
+  "CPR.settings.autoCalculateDerivedStats.hint": "Только для персонажей. При изменении ТЕЛ или ВОЛИ пересчитываются максимальные ПЗ, при изменении максимальной ЭМП — максимальная Человечность, а при изменении Человечности текущая ЭМП становится равной её десятой части. Отключите, чтобы пользоваться кнопками-калькуляторами на листе.",
+  "CPR.settings.autoCalculateDerivedStats.name": "Автоматически пересчитывать производные характеристики",
   "CPR.settings.enablePauseAnimation.hint": "Требуется полная перезагрузка для того чтобы изменение вступил в силу (Ctrl+F5). Настройка игнорируется, если включен режим светочувствительности (Photosensitivity mode).",
   "CPR.settings.enablePauseAnimation.name": "Включить анимированный текст паузы",
   "CPR.settings.invertRollCtrlFunction.hint": "При включении этого параметра диалог броска костей по умолчанию пропускается. Открыть диалог можно с зажатым CTRL (или COMMAND на MacOS)",
